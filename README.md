@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christine-abuqubou&label=Profile%20views&color=0e75b6&style=flat" alt="christine-abuqubou" /> </p>
 
 - 🔭 I’m currently working on **full stackweb app using HTML,CSS,JAVASCRIPT**
-- 🔧 Interested in both frontend (design & usability) and backend (logic & databases).
+- 🔧 I’m a passionate developer interested in both frontend and backend development. I enjoy creating complete solutions — from building intuitive user interfaces to designing efficient server-side logic.
+• 🌐 Frontend: I like working with modern frameworks and creating responsive, user-friendly designs.
+• ⚙️ Backend: I enjoy developing robust APIs, handling databases, and ensuring smooth server performance.
+• 🎯 Goal: Growing into a skilled full-stack developer who can bring ideas to life end-to-end.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Christine-Abuqubou/Christine-Abuqubou](https://github.com/Christine-Abuqubou/Christine-Abuqubou)
 
