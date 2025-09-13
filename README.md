@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christine-abuqubou&label=Profile%20views&color=0e75b6&style=flat" alt="christine-abuqubou" /> </p>
 
-- 🔭 I’m currently working on **full stackweb app using Node js**
+- 🔭 I’m currently working on **full stackweb app using HTML,CSS,JAVASCRIPT**
+- 🔧 Interested in both frontend (design & usability) and backend (logic & databases).
 
 - 👨‍💻 All of my projects are available at [https://github.com/Christine-Abuqubou/Christine-Abuqubou](https://github.com/Christine-Abuqubou/Christine-Abuqubou)
 
@@ -13,7 +14,9 @@
 
 - 📫 How to reach me **ttina2365@gmail.com**
 
-- 📄 Know about my experiences [📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql)](📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql))
+- 📄 Know about my experiences [📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in **java ,Node js ,javaScript, html ,css**🔧 exploring ** APIs,DataBases(mysql)](📗📚 
+  **MY GOALS**
+  🎯 My goal is to become a professional Full-Stack Developer and solve real problems.
 
 - ⚡ Fun fact **⚡️i drink coffee before bed and debug in my dreams**
 
