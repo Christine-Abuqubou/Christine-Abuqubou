@@ -13,12 +13,13 @@
 
 - 📫 How to reach me **ttina2365@gmail.com**
 
-- 📄 Know about my experiences [📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills.🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql)](📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills.🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql))
+- 📄 Know about my experiences [📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql)](📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in java ,Node js 🔧 exploring ** APIs,DataBases(mysql))
 
 - ⚡ Fun fact **⚡️i drink coffee before bed and debug in my dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/christine-bsharah-071251175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christine-bsharah-071251175/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/chris-96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chris-96/" height="30" width="40" /></a>
 </p>
 
@@ -29,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&locale=en" alt="christine-abuqubou" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&" alt="christine-abuqubou" /></p>
