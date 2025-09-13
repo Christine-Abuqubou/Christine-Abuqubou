@@ -5,8 +5,11 @@
 
 - 🔭 I’m currently working on **full stackweb app using HTML,CSS,JAVASCRIPT**
 - 🔧 I’m a passionate developer interested in both frontend and backend development. I enjoy creating complete solutions — from building intuitive user interfaces to designing efficient server-side logic.
+- 
 • 🌐 Frontend: I like working with modern frameworks and creating responsive, user-friendly designs.
+
 • ⚙️ Backend: I enjoy developing robust APIs, handling databases, and ensuring smooth server performance.
+
 • 🎯 Goal: Growing into a skilled full-stack developer who can bring ideas to life end-to-end.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Christine-Abuqubou/Christine-Abuqubou](https://github.com/Christine-Abuqubou/Christine-Abuqubou)
