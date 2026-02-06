@@ -96,18 +96,16 @@
 
 ---
 
-## 📊 GitHub Stats & Streak (Dual Dark/Light Mode)
-
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&theme=dracula&count_private=true&hide_border=false&title_color=FF69B4&icon_color=6AD3F3&text_color=FFFFFF&bg_color=1E1E2F" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-abuqubou&layout=compact&theme=dracula&hide_border=false&title_color=FF69B4&text_color=FFFFFF&bg_color=1E1E2F" alt="Top Languages" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-abuqubou&layout=compact&theme=tokyonight" alt="Top Languages" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=dracula&hide_border=false&stroke=FF69B4&background=1E1E2F&ring=6AD3F3" alt="GitHub Streak" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=tokyonight" alt="GitHub Streak" width="420" />
 </p>
