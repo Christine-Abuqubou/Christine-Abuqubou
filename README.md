@@ -42,8 +42,6 @@
 
 ---
 
-## 🚀 Featured Project: myProject
-
 <p align="center">
   <a href="https://github.com/Christine-Abuqubou/myProject" target="_blank">
     <img src="https://raw.githubusercontent.com/Christine-Abuqubou/myProject/main/preview.gif" 
@@ -53,11 +51,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Click the image to view the GitHub repository or live demo!</i>
-</p>
-
----
 
 ## 🛠️ Skills Showcase
 <p align="center">
