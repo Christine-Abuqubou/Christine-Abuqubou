@@ -99,13 +99,14 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="420" />
+  <img src="https://raw.githubusercontent.com/Christine-Abuqubou/Christine-Abuqubou/main/assets/github-stats.png" alt="GitHub Stats" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-abuqubou&layout=compact&theme=tokyonight" alt="Top Languages" width="420" />
+  <img src="https://raw.githubusercontent.com/Christine-Abuqubou/Christine-Abuqubou/main/assets/top-langs.png" alt="Top Languages" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=tokyonight" alt="GitHub Streak" width="420" />
+  <img src="https://raw.githubusercontent.com/Christine-Abuqubou/Christine-Abuqubou/main/assets/streak-stats.png" alt="GitHub Streak" width="420" />
 </p>
+
