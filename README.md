@@ -96,17 +96,30 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
-## 📊 GitHub Stats & Overview
+## 🚀 Featured Projects & Skills Showcase
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME" alt="GitHub Stats" width="420"/>
+  <!-- Project 1 GIF Card -->
+  <a href="https://github.com/Christine-Abuqubou/project1" target="_blank">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Project 1 Demo" width="250" style="border-radius:12px; margin:10px;"/>
+  </a>
+
+  <!-- Project 2 GIF Card -->
+  <a href="https://github.com/Christine-Abuqubou/project2" target="_blank">
+    <img src="https://media.giphy.com/media/xUPGctXr6YQwGTr0yI/giphy.gif" alt="Project 2 Demo" width="250" style="border-radius:12px; margin:10px;"/>
+  </a>
+
+  <!-- Project 3 GIF Card -->
+  <a href="https://github.com/Christine-Abuqubou/project3" target="_blank">
+    <img src="https://media.giphy.com/media/l0HlRmVn5YZ5F6tDi/giphy.gif" alt="Project 3 Demo" width="250" style="border-radius:12px; margin:10px;"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME" alt="Top Languages" width="420"/>
+  <i>Hover or click any project to see the live demo or GitHub repo!</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" width="420"/>
+  <!-- Skill Animation GIF -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Skills Animation" width="600" style="border-radius:12px; margin-top:20px;"/>
 </p>
