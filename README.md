@@ -1,30 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abuqubou-Christine</h1>
-<h3 align="center">💻full stack developer Front-Backend development passionate about building web applications,writing clean code ,and solving real-wold problems.🌱 always learning and exploring new technologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christine-abuqubou&label=Profile%20views&color=0e75b6&style=flat" alt="christine-abuqubou" /> </p>
-
-- 🔭 I’m currently working on **full stackweb app using HTML,CSS,JAVASCRIPT**
-- 🔧 I’m a passionate developer interested in both frontend and backend development. I enjoy creating complete solutions — from building intuitive user interfaces to designing efficient server-side logic.
-- 
-• 🌐 Frontend: I like working with modern frameworks and creating responsive, user-friendly designs.
-
-• ⚙️ Backend: I enjoy developing robust APIs, handling databases, and ensuring smooth server performance.
-
-• 🎯 Goal: Growing into a skilled full-stack developer who can bring ideas to life end-to-end.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Christine-Abuqubou/Christine-Abuqubou](https://github.com/Christine-Abuqubou/Christine-Abuqubou)
-
-- 📝 I regularly write articles on [https://github.com/Christine-Abuqubou](https://github.com/Christine-Abuqubou)
-
-- 💬 Ask me about **javaScript, Node.js,React in generalFronted&Backend development ,APIs,Databases,**
-
-- 📫 How to reach me **ttina2365@gmail.com**
-
-- 📄 Know about my experiences [📗📚 Learning Journey 🎯building projects to strengthen my Full Stack Development Skills. in Axsos Academey🌱 Currently deeping my knowledge in **java ,Node js ,javaScript, html ,css**🔧 exploring ** APIs,DataBases(mysql)](📗📚 
-  **MY GOALS**
-  🎯 My goal is to become a professional Full-Stack Developer and solve real problems.
-
-- ⚡ Fun fact **⚡️i drink coffee before bed and debug in my dreams**
+👋 Hi, I’m Abuqubou Christine
+💻 Junior Full-Stack Developer passionate about building web applications, writing clean code, and solving real-world problems. 🌱 Always learning and exploring new technologies.
+🔭 Currently working on: Full-stack web apps using HTML, CSS, JavaScript, React, Node.js
+🧑‍💻 Experience & Skills
+Built 3 full-stack projects using Java, React, Django, and Python
+Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap
+Backend: Node.js, Java, Django, Python, REST APIs
+Databases: SQLite, MySQL, MongoDB (Mongoose)
+Tools: Git, Postman, Nodemon
+🎯 Goal: Grow into a professional full-stack developer and build complete, end-to-end solutions.
+👨‍💻 Projects:
+🔗 https://github.com/Christine-Abuqubou
+💬 Ask me about JavaScript, React, Node.js, APIs, Databases
+📫 Contact:
+📧 ttina2365@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/christine-bsharah-071251175/
+🔗 LeetCode: https://leetcode.com/u/chris-96/
+⚡ Fun fact: I drink coffee before bed and debug in my dreams ☕💭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
