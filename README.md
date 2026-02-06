@@ -58,13 +58,19 @@
 ## 👨‍💻 Projects
 
 <p align="center">
-  <a href="https://github.com/Christine-Abuqubou/project1" target="_blank"><img src="https://img.shields.io/badge/Project1-View%20Code-4CAF50?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/Christine-Abuqubou/project2" target="_blank"><img src="https://img.shields.io/badge/Project2-View%20Code-2196F3?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/Christine-Abuqubou/project3" target="_blank"><img src="https://img.shields.io/badge/Project3-View%20Code-FF9800?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Christine-Abuqubou/project1" target="_blank">
+    <img src="https://raw.githubusercontent.com/Christine-Abuqubou/project1/main/preview.gif" alt="Project 1" width="220" style="border-radius:12px;" />
+  </a>
+  <a href="https://github.com/Christine-Abuqubou/project2" target="_blank">
+    <img src="https://raw.githubusercontent.com/Christine-Abuqubou/project2/main/preview.gif" alt="Project 2" width="220" style="border-radius:12px;" />
+  </a>
+  <a href="https://github.com/Christine-Abuqubou/project3" target="_blank">
+    <img src="https://raw.githubusercontent.com/Christine-Abuqubou/project3/main/preview.gif" alt="Project 3" width="220" style="border-radius:12px;" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Hover over each project to see a live preview in GitHub Pages or CodeSandbox!</i>
+  <i>Click on any project to visit the GitHub repository. Animated previews show live on hover!</i>
 </p>
 
 💬 Ask me about **JavaScript, React, Node.js, APIs, Databases, Full-Stack Architecture**
@@ -104,12 +110,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=radical&hide_border=false" />
 </p>
 
-<script>
-// Optional: Add hover animation effect using GitHub supported markdown badges
-const badges = document.querySelectorAll('img[alt^="Project"]');
-badges.forEach(badge => {
-  badge.style.transition = 'transform 0.3s ease';
-  badge.addEventListener('mouseover', () => { badge.style.transform = 'scale(1.1)'; });
-  badge.addEventListener('mouseout', () => { badge.style.transform = 'scale(1)'; });
-});
-</script>
+<!-- Note: GitHub does not allow <script> tags. All hover/animation effects are done via animated GIFs for projects. -->
+
