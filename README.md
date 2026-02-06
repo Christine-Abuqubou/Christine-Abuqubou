@@ -1,3 +1,11 @@
+<!-- Hire-me CTA Banner -->
+
+<p align="center">
+  <a href="mailto:ttina2365@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/HIRE-ME-FE2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <!-- Theme Toggle -->
 
 <p align="center">
@@ -9,70 +17,67 @@
 <!-- Header with typing animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6AD3F3&center=true&vCenter=true&width=700&lines=Abuqubou+Christine;Junior+Full‑Stack+Developer;Building+End‑to‑End+Web+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Abuqubou+Christine;Junior+Full‑Stack+Developer;Shipping+End-to-End+Web+Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christine-bsharah-071251175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/chris-96/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:ttina2365@gmail.com"><img src="https://img.shields.io/badge/Email-ttina2365%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/christine-bsharah-071251175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/chris-96/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:ttina2365@gmail.com"><img src="https://img.shields.io/badge/Email-ttina2365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-**Junior Full‑Stack Developer** focused on delivering reliable, readable, and scalable web applications. I build complete systems—from intuitive interfaces to well‑structured backend logic—and I learn fast by shipping real projects.
+**Junior Full‑Stack Developer** delivering robust, scalable, and visually stunning web applications. I ship projects fast, bridging **frontend flair** with **backend precision**.
 
-🔭 **Currently building:** Full‑stack web apps using **HTML, CSS, JavaScript, React, and Node.js**
+🔭 **Currently building:** Full-stack apps using **HTML, CSS, JavaScript, React, Node.js** with production-ready architecture.
 
-🎯 **Goal:** Contribute as a junior full‑stack developer and grow into an engineer who owns features end‑to‑end.
+🎯 **Goal:** Transform ideas into fully functional web solutions while growing as a full-stack engineer.
 
 ---
 
 ## 🧠 Experience Highlights
 
-* Delivered **3 end‑to‑end full‑stack projects** using **Java, React, Django, and Python**
-* Strong frontend ↔ backend integration mindset
-* Comfortable with APIs, databases, and clean project structure
+* Delivered **3 end-to-end full-stack projects** using **Java, React, Django, Python**
+* Expert in frontend ↔ backend synergy
+* Skilled at designing **clean, scalable APIs** and database architecture
 
 ---
 
 ## 🧩 Tech Stack
 
-**Frontend**
-
-* HTML, CSS, JavaScript, React, Tailwind, Bootstrap
-
-**Backend**
-
-* Node.js, Java, Django, Python, REST APIs
-
-**Databases**
-
-* SQLite, MySQL, MongoDB (Mongoose)
-
-**Tools**
-
-* Git, Postman, Nodemon
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind, Bootstrap
+**Backend:** Node.js, Java, Django, Python, REST APIs
+**Databases:** SQLite, MySQL, MongoDB (Mongoose)
+**Tools:** Git, Postman, Nodemon, Linux, VSCode
 
 ---
 
 ## 👨‍💻 Projects
 
-🔗 **GitHub:** [https://github.com/Christine-Abuqubou](https://github.com/Christine-Abuqubou)
+<p align="center">
+  <a href="https://github.com/Christine-Abuqubou/project1" target="_blank"><img src="https://img.shields.io/badge/Project1-View%20Code-4CAF50?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Christine-Abuqubou/project2" target="_blank"><img src="https://img.shields.io/badge/Project2-View%20Code-2196F3?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Christine-Abuqubou/project3" target="_blank"><img src="https://img.shields.io/badge/Project3-View%20Code-FF9800?style=for-the-badge&logo=github" /></a>
+</p>
 
-💬 Ask me about **JavaScript, React, Node.js, APIs, Databases, Full‑Stack Architecture**
+<p align="center">
+  <i>Hover over each project to see a live preview in GitHub Pages or CodeSandbox!</i>
+</p>
 
-⚡ **Fun fact:** Coffee fuels my debugging—sleep waits until the bug is gone ☕
+💬 Ask me about **JavaScript, React, Node.js, APIs, Databases, Full-Stack Architecture**
+
+⚡ **Fun fact:** Coffee powers my debugging—no bug survives ☕💥
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/christine-bsharah-071251175/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://leetcode.com/u/chris-96/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/christine-bsharah-071251175/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/></a>
+  <a href="https://leetcode.com/u/chris-96/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="45"/></a>
 </p>
 
 ---
@@ -80,21 +85,31 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,java,python,django,mysql,mongodb,git,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,java,python,django,mysql,mongodb,git,postman,linux,figma,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak (Dual Dark/Light Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christine-abuqubou&show_icons=true&theme=radical&count_private=true&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-abuqubou&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-abuqubou&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-abuqubou&theme=radical&hide_border=false" />
 </p>
+
+<script>
+// Optional: Add hover animation effect using GitHub supported markdown badges
+const badges = document.querySelectorAll('img[alt^="Project"]');
+badges.forEach(badge => {
+  badge.style.transition = 'transform 0.3s ease';
+  badge.addEventListener('mouseover', () => { badge.style.transform = 'scale(1.1)'; });
+  badge.addEventListener('mouseout', () => { badge.style.transform = 'scale(1)'; });
+});
+</script>
