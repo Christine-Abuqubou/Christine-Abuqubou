@@ -42,13 +42,25 @@
 
 ---
 
+## 🚀 Featured Projects
+
 <p align="center">
+  <!-- Animated Project Cards with Shadows -->
   <a href="https://github.com/Christine-Abuqubou/myProject" target="_blank">
-    <img src="https://raw.githubusercontent.com/Christine-Abuqubou/myProject/main/preview.gif" 
-         alt="myProject Demo" 
-         width="250"
-         style="border-radius:15px; margin:10px; box-shadow:0 10px 25px rgba(0,0,0,0.35);" />
+    <img src="https://media.giphy.com/media/3o6ZsYxJ6U3O2r8pDi/giphy.gif" alt="Project 1" width="250" style="border-radius:15px; margin:10px; box-shadow:0 10px 25px rgba(0,0,0,0.35); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
+
+  <a href="https://github.com/Christine-Abuqubou/myProject#" target="_blank">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Project 2" width="250" style="border-radius:15px; margin:10px; box-shadow:0 10px 25px rgba(0,0,0,0.35); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <a href="https://github.com/Christine-Abuqubou/myProject#" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Project 3" width="250" style="border-radius:15px; margin:10px; box-shadow:0 10px 25px rgba(0,0,0,0.35); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Click on a project to view its GitHub repo. Hover animations make previews pop!</i>
 </p>
 
 
